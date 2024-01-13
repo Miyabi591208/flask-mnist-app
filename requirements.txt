@@ -27,10 +27,10 @@ six==1.16.0
 tensorboard==2.13.0
 tensorboard-data-server==0.7.1
 tensorflow==2.13.0
-tensorflow-estimator==2.13.0
-tensorflow-macos==2.13.0
-tensorflow-probability==0.20.1
-tensorflow-serving-api==2.13.0
+# tensorflow-estimator==2.13.0
+# tensorflow-macos==2.13.0
+# tensorflow-probability==0.20.1
+# tensorflow-serving-api==2.13.0
 termcolor==2.3.0
 urllib3==1.26.16
 Werkzeug==2.3.7
